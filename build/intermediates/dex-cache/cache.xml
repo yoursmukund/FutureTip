@@ -3,66 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_b3cc0099d614fa1800a0830cc3b2b33ee0aa03bf\classes.dex" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_ba9b8bf5a7a89e5640a5ccda0157f629eab68c51\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\2.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d4e0e33103f4ad09e67d3d508585e4a70fe96f86">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-2.0.1_5ecb3f8c8fa7700f50e90086031cbd0d7dc2ff11\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_7f67310f19ae48db45f6da202636d9f21cf7b8b2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-11.0.1_111d8010e8927df6f839578e594bad0b9d7ebd0f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-11.0.1_ff805c6f995b8fe190e421868aadd90490a69e48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-11.0.1_de6d47e012cc59ccad79c0f99a676be9766eb13c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="807751a24cf96566fd8675517c94d8463cf364db">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.3.1_f971c1806f7447a2f474354c25c663ef546bdc58\classes.dex" />
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.3.1_fe6bd7e264e7be668b0ea7bb25ed5fb7708f68cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-11.0.1_0b51e0ece03315c77656e2995608de7408d9cc55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_95cf3dd4f12acbfdb56cb9b36409b0f74809c8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-11.0.1_1dedef5060dac49cc97edc42b4bc37d6c6089347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-11.0.1_9525c0fb383c2991b684d0c0c50cfa7c5cb727cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_7214a32b8afb0191386777ff7686b7b1973eeead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-11.0.1_1434cab02804a6045606bb47b8443690a7b264fd\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,187 +80,178 @@
         optimize="true"
         revision="24.0.2"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_360928f1a27c384f5569cc89ca5c1d5fcb05037d\classes.dex" />
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_360928f1a27c384f5569cc89ca5c1d5fcb05037d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_2bd4ae1653f3713898ec87a9f78d2782a8740699\classes.dex" />
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_d436cc698a05eb2d8aa737d5e267ac7b8d0fbf62\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-11.0.1_08fb717a7d193c98bee2b202a441ff028142ac8d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-11.0.1_28d6a19d350e7ec73b84e71ff4f68770a4e94b21\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_b888007cb7f700a11037e826914d93eec1f6c38a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="42ad921f1a48697f562454611de629ea85b4b162">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eae1f4d178ef8962a96f9ca6fffb49eba399e3c4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-11.0.1_9b423823c8821c9bd36f84a1ec32e6dcd3562743\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_de8aad789e6dba3fc47977b4fe0554d7cfd48707\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_b5cede80625485a61af4bcef8e6d03281a15b5d3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-11.0.1_11fa238b52d3e544dc58ac43d1283d0c2c86abd9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_abcaedf0e8990e12b75f320841ac1e3d32811c96\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_66e7af8347df602109f5e35e2db5350f17f44efc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-11.0.1_34db6a489dcf5cf6cf9d68da95133d5d74b757af\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_ce12a494bc7008ac5d7334931ffd922877a46ea5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_5634e978a5fc3d48ab7538b01b26ba5daf2ed082\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_c91cae69de1f3e5e632a6af459f9c618eca8f066\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-11.0.1_8b29c540506772e620ef069b8f2c3f523b169716\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2545e7ef46db48725313f833fb1ba61a37977654">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6b3be747f4a4187e64bbdd0aa8b53ef074d8725f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_f1c3fdf1523ab3bd284a6e08aa91c4153f66a880\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_7dde2f82f286dc24ca3e6fc30d0621fb5c778d1a\classes.dex" />
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_1482a73de5060e21fd1c45158ec8c88872104537\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.1\jars\classes.jar"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4e0e33103f4ad09e67d3d508585e4a70fe96f86">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-2.0.1_34ecf0ace3324998083151ef991db53915e11527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_f039b45d0bc4cd238f06ea94e753f4586b9006b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_aa1801023077c3ed55cc0a285f4afa9ab9ab5c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_16029834d3f3fb483a71aa098a5aa47aeb2ae273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_57b0286eb258739e227a546041b84f27138b910d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_0bae24502579514c9c863f8a07974f0d64273508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_ad9612ac91c20bd3238991312591d0f8fb9020b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-11.0.1_a3196fd39ce1cd45f8cc16d3bfa450977e579724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-11.0.1_b8d6453e52fe37f257c710d2962636d7ef3c19eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-11.0.1_c100b1b4ee4f5e48edc28e8d1f9a6c8769a92d3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f934e5d5822f407c7c2acd82b64752429d08e4c1">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5f8ef07bf1b89bd67f2f146a90e4b1af26ae8d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="22e0bbdafd3bd9e6aa046b5d32968825665c8a46">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae90be87178be64add10f6f74271c3a006566e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-11.0.1_998ecdd08ffed59648b73e03c73c1b8815f8b5d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-11.0.1_fe0589dbf64c9a0f117f61631675b7b71df39757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_fe11651380ea07ad5d8565ea89bff5970a3621c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_02e3fe3a89f5f6700272c83e5072cd9d7630f351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
-        <dex dex="C:\Users\mukun\Desktop\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-11.0.1_4b77ed784071da716b20fd18099a5cd717d5f891\classes.dex" />
+        <dex dex="C:\Users\mukun\Desktop\Android\FutureTip\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-11.0.1_baa3e1d6b5ebf2082f5b9d62de3c8a2cd100f0a8\classes.dex" />
     </item>
 
 </items>

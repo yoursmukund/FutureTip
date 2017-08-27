@@ -13,12 +13,38 @@
     tools:context="com.mukund.futuretip.MainActivity"
     tools:showIn="@layout/appbar_nav">
 
-    <ProgressBar
+  <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/datePicker">
+
+    <Switch
+      android:id="@+id/setBirthday"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:onClick="getBirthday"
+      android:text="Daily Reading"
+      android:textOff="Set Birth Date"
+      android:textOn="Birthday Set"
+      android:textSize="18sp"
+      tools:checked="false" />
+  </LinearLayout>
+
+  <ProgressBar
         style="?android:attr/progressBarStyleLarge"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/progressBar" />
+
+    <FrameLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/frameLayout">
+
+    </FrameLayout>
 
 </RelativeLayout>

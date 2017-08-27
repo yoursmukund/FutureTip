@@ -19,7 +19,16 @@
         <item name="colorPrimary">@color/cardview_dark_background</item>
     </style>
 
-    <style name="LoginTheme" parent="FirebaseUI">
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+      <item name="colorControlNormal">@android:color/holo_red_dark</item>
+      <item name="colorControlActivated">@color/linkColor</item>
+      <item name="textColorAlertDialogListItem">@android:color/white</item>
+      <item name="colorAccent">@color/linkColor</item>
+      <item name="android:textColorPrimary">@android:color/white</item>
+      <item name="android:windowBackground">@drawable/common_google_signin_btn_icon_light_normal_background</item>
+    </style>
+
+  <style name="LoginTheme" parent="FirebaseUI">
         <item name="colorPrimary">#037367</item>
         <item name="colorPrimaryDark">#00281f</item>
         <item name="colorAccent">#bea42e</item>

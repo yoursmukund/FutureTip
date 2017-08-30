@@ -3,12 +3,64 @@
   android:layout_width="match_parent"
   android:layout_height="match_parent">
 
-  <TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:textAppearance="?android:attr/textAppearanceLarge"
-    android:text="Settings"
-    android:id="@+id/textView"
-    android:layout_centerVertical="true"
-    android:layout_centerHorizontal="true" />
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/idp_button_background_twitter"
+    android:elevation="24dp"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+      android:id="@+id/setProblem"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="50dp"
+      android:text="Problem" />
+
+    <EditText
+      android:id="@+id/problem"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="50dp"
+      android:ems="10"
+      android:inputType="textPersonName" />
+
+    <TextView
+      android:id="@+id/setTopConcern"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="50dp"
+      android:text="Top Concern" />
+
+    <EditText
+      android:id="@+id/topConcern"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="50dp"
+      android:ems="10"
+      android:inputType="textPersonName" />
+
+    <TextView
+      android:id="@+id/setSubject"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="50dp"
+      android:text="Subject" />
+
+    <EditText
+      android:id="@+id/subject"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="50dp"
+      android:ems="10"
+      android:inputType="textPersonName" />
+
+    <Button
+      android:id="@+id/sendShortReadingRequest"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="send" />
+  </LinearLayout>
+
 </RelativeLayout>

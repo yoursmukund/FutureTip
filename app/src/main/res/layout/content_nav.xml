@@ -13,23 +13,35 @@
     tools:context="com.mukund.futuretip.MainActivity"
     tools:showIn="@layout/appbar_nav">
 
+  <FrameLayout
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true"
+    android:elevation="11dp"
+    android:scrollbars="vertical">
+
+  </FrameLayout>
+
+  <Button
+    android:id="@+id/requestShortReading"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="false"
+    android:layout_centerInParent="true"
+    android:layout_centerVertical="false"
+    android:layout_weight="1"
+    android:capitalize="none"
+    android:onClick="addShortReading"
+    android:text="Short Reading" />
+
   <LinearLayout
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/datePicker">
 
-    <Switch
-      android:id="@+id/setBirthday"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:layout_weight="1"
-      android:onClick="getBirthday"
-      android:text="Daily Reading"
-      android:textOff="Set Birth Date"
-      android:textOn="Birthday Set"
-      android:textSize="18sp"
-      tools:checked="false" />
   </LinearLayout>
 
   <ProgressBar
@@ -40,11 +52,18 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/progressBar" />
 
-    <FrameLayout
-      android:layout_width="match_parent"
-      android:layout_height="match_parent"
-      android:id="@+id/frameLayout">
-
-    </FrameLayout>
+  <Switch
+    android:id="@+id/setBirthday"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/requestShortReading"
+    android:layout_alignStart="@+id/requestShortReading"
+    android:layout_weight="1"
+    android:onClick="getBirthday"
+    android:text="Daily Reading"
+    android:textOff="Set Birth Date"
+    android:textOn="Birthday Set"
+    android:textSize="18sp"
+    tools:checked="false" />
 
 </RelativeLayout>
